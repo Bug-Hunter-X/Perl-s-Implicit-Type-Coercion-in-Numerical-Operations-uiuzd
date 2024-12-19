@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl stemming from its implicit type coercion. The bug involves an unexpected type conversion when using the += operator in numerical operations, particularly when dealing with string concatenation.  The solution provides a corrected approach to avoid this issue.
